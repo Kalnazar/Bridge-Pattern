@@ -10,7 +10,7 @@ Bridge is a structural design pattern that lets you split a large class or a set
 
 ### Structure
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/102688997/161003305-7dc4a3bb-bd53-405e-939e-865f6ab35d1d.png)
 
 ### References
 
